@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# E-Commerce User App Readme
+
+## Overview
+Welcome to the E-Commerce User App! This application shares the same robust tech stack as the Admin App, allowing users to browse, purchase items, and manage their shopping cart.
+
+## User Features
+1. **Store Exploration:** Users can view stores, browse products, and access detailed information.
+2. **Shopping Cart:** Add items to the cart, review, and proceed to a secure checkout.
+3. **Order History:** Users can track their order history for a seamless shopping experience.
+
+## Tech Stack
+- Next.js 14
+- React
+- JavaScript
+- Clerk
+- TypeScript
+- Shadcn-UI
+- React Headless UI
+- Tailwind CSS
+- Stripe API (for payments)
+- MySQL (as the backend database)
 
 ## Getting Started
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Explore stores, add items to your cart, and enjoy a secure shopping experience.
 
-First, run the development server:
+Feel free to contribute and enhance the user app to provide an exceptional shopping journey!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Contributors
+- Hammad
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 Source
+ [CodewithAntonio](https://github.com/AntonioErdeljac)
